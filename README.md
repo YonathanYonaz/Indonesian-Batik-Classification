@@ -1,5 +1,5 @@
-Group members:
+# Indonesian Batik Classification
 
-Yonathan Yonaz Harijono
-
+Group members: <br>
+Yonathan Yonaz Harijono<br>
 Nicholas Marco Gunardi
